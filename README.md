@@ -6,7 +6,24 @@
 
 
 
+
+
+
+
+
 # Artificial Intelligence Blogs
+
+
+
+An Introduction To Mathematics Behind Neural Networks
+
+https://hackernoon.com/a-6ur13zzx
+
+
+
+
+
+
 
 Build an Artificial Neural Network From Scratch: Part 1
 https://www.kdnuggets.com/2019/11/build-artificial-neural-network-scratch-part-1.html
