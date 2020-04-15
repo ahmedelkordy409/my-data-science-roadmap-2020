@@ -13,6 +13,7 @@
 
 # Artificial Intelligence Blogs
 
+https://en.wikipedia.org/wiki/Dot_product#Algebraic_definition
 
 
 An Introduction To Mathematics Behind Neural Networks
